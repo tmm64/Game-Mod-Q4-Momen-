@@ -1148,9 +1148,15 @@ void idProjectile::Explode( const trace_t *collision, const bool showExplodeFX, 
 		normal = collision ? collision->c.normal : idVec3( 0, 0, 1 );
 	}
 	endpos = ( collision ) ? collision->endpos : GetPhysics()->GetOrigin();
-
+	
 	removeTime = spawnArgs.GetInt( "remove_time", "1500" );
 
+	if (spawnArgs.GetBool("ricochet")) {
+		CancelEvents(&EV_Explode);
+		PostEventMS(&EV_Remove, removeTime);
+		return;
+	}
+	
 	// play sound
 	StopSound( SND_CHANNEL_BODY, false );
 	StartSound( sndExplode, SND_CHANNEL_BODY, 0, false, NULL );
@@ -1176,7 +1182,7 @@ void idProjectile::Explode( const trace_t *collision, const bool showExplodeFX, 
 	// Stop the remaining particles
 	StopAllEffects( );
 
-	Hide();
+	Hide(); 
 	FreeLightDef();
 
 	GetPhysics()->SetOrigin( GetPhysics()->GetOrigin() + 8.0f * normal );
@@ -1222,9 +1228,17 @@ void idProjectile::Explode( const trace_t *collision, const bool showExplodeFX, 
 			removeTime = delay;
 		}
 	}
-			
+	
+	
+
  	CancelEvents( &EV_Explode );
 	PostEventMS( &EV_Remove, removeTime );
+
+	
+
+
+
+	
 }
 
 /*

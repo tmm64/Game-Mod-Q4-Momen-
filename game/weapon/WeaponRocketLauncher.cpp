@@ -35,7 +35,7 @@ protected:
 	virtual void			OnLaunchProjectile	( idProjectile* proj );
 
 	void					SetRocketState		( const char* state, int blendFrames );
-
+	
 	rvClientEntityPtr<rvClientEffect>	guideEffect;
 	idList< idEntityPtr<idEntity> >		guideEnts;
 	float								guideSpeedSlow;
@@ -48,7 +48,7 @@ protected:
 	float								reloadRate;
 
 	bool								idleEmpty;
-
+	
 private:
 
 	stateResult_t		State_Idle				( const stateParms_t& parms );
@@ -222,7 +222,7 @@ void rvWeaponRocketLauncher::OnLaunchProjectile ( idProjectile* proj ) {
 	idEntityPtr<idEntity> ptr;
 	ptr = proj;
 	guideEnts.Append ( ptr );	
-}
+} 
 
 /*
 ================
@@ -423,7 +423,7 @@ stateResult_t rvWeaponRocketLauncher::State_Idle( const stateParms_t& parms ) {
 			if ( wsfl.lowerWeapon ) {
 				SetState ( "Lower", 4 );
 				return SRESULT_DONE;
-			}		
+			}	
 			if ( gameLocal.time > nextAttackTime && wsfl.attack && ( gameLocal.isClient || AmmoInClip ( ) ) ) {
 				SetState ( "Fire", 2 );
 				return SRESULT_DONE;
@@ -443,11 +443,12 @@ stateResult_t rvWeaponRocketLauncher::State_Fire ( const stateParms_t& parms ) {
 		STAGE_INIT,
 		STAGE_WAIT,
 	};	
+
 	switch ( parms.stage ) {
 		case STAGE_INIT:
 			nextAttackTime = gameLocal.time + (fireRate * owner->PowerUpModifier ( PMOD_FIRERATE ));		
-			Attack ( false, 20, spread, 3, 1.0f );
-			PlayAnim ( ANIMCHANNEL_LEGS, "fire", parms.blendFrames );	
+			Attack ( false, 1, spread, 0, 1.0f );
+			PlayAnim ( ANIMCHANNEL_LEGS, "fire", parms.blendFrames );
 			return SRESULT_STAGE ( STAGE_WAIT );
 	
 		case STAGE_WAIT:			

@@ -434,6 +434,12 @@ stateResult_t rvWeaponBlaster::State_Fire ( const stateParms_t& parms ) {
 				Attack ( false, 10, spread, 0, 0.2f );
 				PlayEffect ( "fx_normalflash", barrelJointView, false );
 				PlayAnim( ANIMCHANNEL_ALL, "fire", parms.blendFrames );
+				if (owner->IsFlashlightOn()) {
+					Flashlight(false);
+				}
+				else {
+					Flashlight(true);
+				}
 			}
 			fireHeldTime = 0;
 			

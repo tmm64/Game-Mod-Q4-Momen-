@@ -42,7 +42,7 @@
       "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\ai\\Monster_BossMakron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\USERS\\TANIB\\GITPROJECTS\\GAME-MOD-Q4-MOMEN-\\IDLIB\\MATH\\VECTOR.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\IDLIB\\MATH\\VECTOR.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:IDLIB\\MATH\\VECTOR.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -79,73 +79,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 750,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Monster_BossMakron.cpp",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\ai\\Monster_BossMakron.cpp",
-              "RelativeDocumentMoniker": "game\\ai\\Monster_BossMakron.cpp",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\ai\\Monster_BossMakron.cpp",
-              "RelativeToolTip": "game\\ai\\Monster_BossMakron.cpp",
-              "ViewState": "AgIAAO4FAAAAAAAAAAAWwPwFAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-10T15:56:35.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SysCmds.cpp",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\gamesys\\SysCmds.cpp",
-              "RelativeDocumentMoniker": "game\\gamesys\\SysCmds.cpp",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\gamesys\\SysCmds.cpp",
-              "RelativeToolTip": "game\\gamesys\\SysCmds.cpp",
-              "ViewState": "AgIAAJkFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-10T15:47:35.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SysCmds.h",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\gamesys\\SysCmds.h",
-              "RelativeDocumentMoniker": "game\\gamesys\\SysCmds.h",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\gamesys\\SysCmds.h",
-              "RelativeToolTip": "game\\gamesys\\SysCmds.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-10T15:47:33.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Vector.h",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\math\\Vector.h",
-              "RelativeDocumentMoniker": "idlib\\math\\Vector.h",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\math\\Vector.h",
-              "RelativeToolTip": "idlib\\math\\Vector.h",
-              "ViewState": "AgIAABYAAAAAAAAAAIAwwCQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-10T15:44:22.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Monster_Gladiator.cpp",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\ai\\Monster_Gladiator.cpp",
-              "RelativeDocumentMoniker": "game\\ai\\Monster_Gladiator.cpp",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\ai\\Monster_Gladiator.cpp",
-              "RelativeToolTip": "game\\ai\\Monster_Gladiator.cpp",
-              "ViewState": "AgIAAOUAAAAAAAAAAIAwwPMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-10T15:29:48.144Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 16,
@@ -156,112 +91,7 @@
               "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\7zO40CD443E\\monster_grunt.def",
               "ViewState": "AgIAAJUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2026-02-10T15:27:52.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Entity.h",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Entity.h",
-              "RelativeDocumentMoniker": "game\\Entity.h",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Entity.h",
-              "RelativeToolTip": "game\\Entity.h",
-              "ViewState": "AgIAALYAAAAAAAAAAAAcwMgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-07T23:06:48.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Dict.h",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\Dict.h",
-              "RelativeDocumentMoniker": "idlib\\Dict.h",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\Dict.h",
-              "RelativeToolTip": "idlib\\Dict.h",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAswGEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-07T22:08:20.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dict.cpp",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\Dict.cpp",
-              "RelativeDocumentMoniker": "idlib\\Dict.cpp",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\Dict.cpp",
-              "RelativeToolTip": "idlib\\Dict.cpp",
-              "ViewState": "AgIAAC4BAAAAAAAAAAAswDkBAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-07T22:07:31.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Game_local.cpp",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Game_local.cpp",
-              "RelativeDocumentMoniker": "game\\Game_local.cpp",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Game_local.cpp",
-              "RelativeToolTip": "game\\Game_local.cpp",
-              "ViewState": "AgIAAOkDAAAAAAAAAAAswPcDAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-05T03:30:50.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Game_local.h",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Game_local.h",
-              "RelativeDocumentMoniker": "game\\Game_local.h",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Game_local.h",
-              "RelativeToolTip": "game\\Game_local.h",
-              "ViewState": "AgIAAEgCAAAAAAAAAAAswFYCAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-05T03:38:20.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeaponRocketLauncher.cpp",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\weapon\\WeaponRocketLauncher.cpp",
-              "RelativeDocumentMoniker": "game\\weapon\\WeaponRocketLauncher.cpp",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\weapon\\WeaponRocketLauncher.cpp",
-              "RelativeToolTip": "game\\weapon\\WeaponRocketLauncher.cpp",
-              "ViewState": "AgIAALoAAAAAAAAAAAAswMgAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-29T15:54:29.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Weapon.cpp",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Weapon.cpp",
-              "RelativeDocumentMoniker": "game\\Weapon.cpp",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Weapon.cpp",
-              "RelativeToolTip": "game\\Weapon.cpp",
-              "ViewState": "AgIAALoJAAAAAAAAAIAwwMgJAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-28T23:38:53.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Weapon.h",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Weapon.h",
-              "RelativeDocumentMoniker": "game\\Weapon.h",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Weapon.h",
-              "RelativeToolTip": "game\\Weapon.h",
-              "ViewState": "AgIAAL0BAAAAAAAAAAAkwOIBAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-06T21:28:47.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T15:27:52.112Z"
             },
             {
               "$type": "Document",
@@ -271,22 +101,9 @@
               "RelativeDocumentMoniker": "game\\Projectile.cpp",
               "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Projectile.cpp",
               "RelativeToolTip": "game\\Projectile.cpp",
-              "ViewState": "AgIAAHUEAAAAAAAAAAAiwIEEAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAHUEAAAAAAAAAAAiwIYEAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-03T17:44:52.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Projectile.h",
-              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Projectile.h",
-              "RelativeDocumentMoniker": "game\\Projectile.h",
-              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Projectile.h",
-              "RelativeToolTip": "game\\Projectile.h",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAwCoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-03T16:39:25.435Z",
               "EditorCaption": ""
             },
             {
@@ -299,8 +116,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\Program Files (x86)\\Steam\\steamapps\\common\\Quake 4\\mods\\def\\weapons\\rocketlauncher.def",
               "ViewState": "AgIAACsBAAAAAAAAAADgv0kBAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2026-02-03T16:12:45.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T16:12:45.991Z"
             },
             {
               "$type": "Document",
@@ -312,8 +128,179 @@
               "RelativeToolTip": "..\\..\\..\\..\\Program Files (x86)\\Steam\\steamapps\\common\\Quake 4\\mods\\def\\weapons\\blaster.def",
               "ViewState": "AgIAALIAAAAAAAAAAAAgwMYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2026-02-05T03:09:46.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T03:09:46.935Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Monster_BossMakron.cpp",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\ai\\Monster_BossMakron.cpp",
+              "RelativeDocumentMoniker": "game\\ai\\Monster_BossMakron.cpp",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\ai\\Monster_BossMakron.cpp",
+              "RelativeToolTip": "game\\ai\\Monster_BossMakron.cpp",
+              "ViewState": "AgIAAO4FAAAAAAAAAAAWwPwFAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T15:56:35.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SysCmds.cpp",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\gamesys\\SysCmds.cpp",
+              "RelativeDocumentMoniker": "game\\gamesys\\SysCmds.cpp",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\gamesys\\SysCmds.cpp",
+              "RelativeToolTip": "game\\gamesys\\SysCmds.cpp",
+              "ViewState": "AgIAAJkFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T15:47:35.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SysCmds.h",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\gamesys\\SysCmds.h",
+              "RelativeDocumentMoniker": "game\\gamesys\\SysCmds.h",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\gamesys\\SysCmds.h",
+              "RelativeToolTip": "game\\gamesys\\SysCmds.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-10T15:47:33.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vector.h",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\math\\Vector.h",
+              "RelativeDocumentMoniker": "idlib\\math\\Vector.h",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\math\\Vector.h",
+              "RelativeToolTip": "idlib\\math\\Vector.h",
+              "ViewState": "AgIAABYAAAAAAAAAAIAwwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-10T15:44:22.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Monster_Gladiator.cpp",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\ai\\Monster_Gladiator.cpp",
+              "RelativeDocumentMoniker": "game\\ai\\Monster_Gladiator.cpp",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\ai\\Monster_Gladiator.cpp",
+              "RelativeToolTip": "game\\ai\\Monster_Gladiator.cpp",
+              "ViewState": "AgIAAOUAAAAAAAAAAIAwwPMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T15:29:48.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entity.h",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Entity.h",
+              "RelativeDocumentMoniker": "game\\Entity.h",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Entity.h",
+              "RelativeToolTip": "game\\Entity.h",
+              "ViewState": "AgIAALYAAAAAAAAAAAAcwMgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-07T23:06:48.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dict.h",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\Dict.h",
+              "RelativeDocumentMoniker": "idlib\\Dict.h",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\Dict.h",
+              "RelativeToolTip": "idlib\\Dict.h",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswGEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-07T22:08:20.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dict.cpp",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\Dict.cpp",
+              "RelativeDocumentMoniker": "idlib\\Dict.cpp",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\idlib\\Dict.cpp",
+              "RelativeToolTip": "idlib\\Dict.cpp",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAswDkBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-07T22:07:31.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game_local.cpp",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Game_local.cpp",
+              "RelativeDocumentMoniker": "game\\Game_local.cpp",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Game_local.cpp",
+              "RelativeToolTip": "game\\Game_local.cpp",
+              "ViewState": "AgIAAOkDAAAAAAAAAAAswPcDAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-05T03:30:50.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game_local.h",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Game_local.h",
+              "RelativeDocumentMoniker": "game\\Game_local.h",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Game_local.h",
+              "RelativeToolTip": "game\\Game_local.h",
+              "ViewState": "AgIAAEgCAAAAAAAAAAAswFYCAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T03:38:20.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeaponRocketLauncher.cpp",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\weapon\\WeaponRocketLauncher.cpp",
+              "RelativeDocumentMoniker": "game\\weapon\\WeaponRocketLauncher.cpp",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\weapon\\WeaponRocketLauncher.cpp",
+              "RelativeToolTip": "game\\weapon\\WeaponRocketLauncher.cpp",
+              "ViewState": "AgIAALoAAAAAAAAAAAAswMgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T15:54:29.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Weapon.cpp",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Weapon.cpp",
+              "RelativeDocumentMoniker": "game\\Weapon.cpp",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Weapon.cpp",
+              "RelativeToolTip": "game\\Weapon.cpp",
+              "ViewState": "AgIAALoJAAAAAAAAAIAwwMgJAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T23:38:53.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Weapon.h",
+              "RelativeDocumentMoniker": "game\\Weapon.h",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Weapon.h",
+              "RelativeToolTip": "game\\Weapon.h",
+              "ViewState": "AgIAAL0BAAAAAAAAAAAkwOIBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-06T21:28:47.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Projectile.h",
+              "DocumentMoniker": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Projectile.h",
+              "RelativeDocumentMoniker": "game\\Projectile.h",
+              "ToolTip": "C:\\Users\\tanib\\GitProjects\\Game-Mod-Q4-Momen-\\game\\Projectile.h",
+              "RelativeToolTip": "game\\Projectile.h",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwCoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T16:39:25.435Z"
             }
           ]
         }

@@ -1141,7 +1141,7 @@ void idProjectile::Explode( const trace_t *collision, const bool showExplodeFX, 
 	if ( state == EXPLODED || state == FIZZLED ) {
 		return;
 	}
-
+	
 	if ( spawnArgs.GetVector( "detonation_axis", "", normal ) ) {
 		GetPhysics()->SetAxis( normal.ToMat3() );
 	} else {

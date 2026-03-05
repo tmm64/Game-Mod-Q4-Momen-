@@ -30,7 +30,7 @@ public:
 
 	virtual int				GetDamageForLocation( int damage, int location );
 
-//	virtual void			SetTether			( rvAITether* newTether );
+	virtual void			SetTether			( rvAITether* newTether );
 
 protected:
 
@@ -218,7 +218,7 @@ bool rvMonsterGladiator::CheckActions ( void ) {
 					{
 						if ( !gameLocal.random.RandomInt( 5 ) )
 						{
-							PerformAction ( "Torso_ShieldStart", 4, true );
+							
 							return true;
 						}
 					}
@@ -397,7 +397,7 @@ bool rvMonsterGladiator::UpdateRunStatus ( void ) {
 rvMonsterGladiator::SetTether
 ============
 */
-/*
+
 void rvMonsterGladiator::SetTether ( rvAITether* newTether ) {
 	if ( railgunHealth <= 0 ) {
 		//don't allow any tethers!
@@ -406,7 +406,7 @@ void rvMonsterGladiator::SetTether ( rvAITether* newTether ) {
 		idAI::SetTether(newTether);
 	}
 }
-*/
+
 
 /*
 ================

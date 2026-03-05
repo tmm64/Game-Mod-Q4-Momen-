@@ -132,6 +132,8 @@ void rvMonsterGladiator::Spawn ( void ) {
 	{
 		mPostWeaponDestroyed.Init( func );
 	}
+
+	DestroyRailgun();
 }
 
 /*
@@ -417,12 +419,15 @@ int rvMonsterGladiator::FilterTactical ( int availableTactical ) {
 	if ( railgunHealth > 0 ) { // Only let the gladiator rush when he is really close to his enemy
 		if ( !enemy.range || enemy.range > combat.awareRange ) {
 			availableTactical &= ~AITACTICAL_MELEE_BIT;
-		} else {
-			availableTactical &= ~(AITACTICAL_RANGED_BITS);
+		} else if (!enemy.fl.visible) {
+			availableTactical &= ~AITACTICAL_HIDE_BIT;
+			gameLocal.Printf("yeah bro ts working");
 		}
 	} else if ( gameLocal.GetTime() - railgunDestroyedTime < 6000 )	{
 		availableTactical = AITACTICAL_MELEE_BIT;
 	}
+
+
 	
 	return idAI::FilterTactical ( availableTactical );
 }
